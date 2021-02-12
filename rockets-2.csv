@@ -1,0 +1,7 @@
+rocket_name,organisation,payload_capacity,first_launch_date
+Saturn V,NASA,140000 kg,1967-11-09T00:00:00
+Falcon 9,SpaceX,22000 kg,2013-09-29T00:00:00
+Falcon Heavy,SpaceX,64000 kg,2018-02-06T00:00:00
+Starship,SpaceX,150000 kg,2020-12-09T00:00:00
+SLS,NASA,70000 kg,2049-01-12T00:00:00
+Phoenix,Private,,2063-04-05T00:00:00

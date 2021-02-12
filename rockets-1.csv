@@ -1,0 +1,7 @@
+RocketName,Organisation,PayloadCapacity,FirstLaunchDate
+Saturn V,NASA,140000,11/09/1967 00:00:00
+Falcon 9,SpaceX,22000,09/29/2013 00:00:00
+Falcon Heavy,SpaceX,64000,02/06/2018 00:00:00
+Starship,SpaceX,150000,12/09/2020 00:00:00
+SLS,NASA,70000,01/12/2049 00:00:00
+Phoenix,Private,,04/05/2063 00:00:00
